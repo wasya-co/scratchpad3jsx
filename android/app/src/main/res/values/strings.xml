@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">scratchpad3jsx</string>
+    <string name="title_activity_main">scratchpad3jsx</string>
+    <string name="package_name">co.wasya.scratchpad3jsx</string>
+    <string name="custom_url_scheme">co.wasya.scratchpad3jsx</string>
+</resources>
